@@ -5,7 +5,7 @@ body{
 }
 #header{
 	height: 100vh;
-	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)) ,url(img/background.jfif);
+	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)) ,url(https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/129325364/original/afaddcb9d7dfaaf5bff7ef04101935814665ac16/design-an-attractive-background-for-your-website.png);
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
