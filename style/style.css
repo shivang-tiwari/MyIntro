@@ -119,6 +119,10 @@ body{
 	border-top-right-radius: 50px;
 	border-bottom-left-radius: 50px;
 }
+.services-box:hover{
+	background: #0A0A0A;
+	color: white;
+}
 .services-box .fa{
 	margin: 0 10px;
 	font-size: 20px;
